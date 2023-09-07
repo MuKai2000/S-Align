@@ -1,0 +1,29 @@
+ninja_required_version = 1.3
+cxx = c++
+nvcc = /mnt/zhangyh/CUDA/cuda-11.3.0/bin/nvcc
+
+cflags = -pthread -B /home/zhangyh/miniconda3/envs/AT/compiler_compat -Wl,--sysroot=/ -Wsign-compare -DNDEBUG -g -fwrapv -O3 -Wall -Wstrict-prototypes -fPIC -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include/torch/csrc/api/include -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include/TH -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include/THC -I/home/zhangyh/miniconda3/envs/AT/include/python3.8 -c
+post_cflags = -DTORCH_API_INCLUDE_EXTENSION_H '-DPYBIND11_COMPILER_TYPE="_gcc"' '-DPYBIND11_STDLIB="_libstdcpp"' '-DPYBIND11_BUILD_ABI="_cxxabi1011"' -DTORCH_EXTENSION_NAME=libnat_cuda -D_GLIBCXX_USE_CXX11_ABI=0 -std=c++14
+cuda_cflags = -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include/torch/csrc/api/include -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include/TH -I/home/zhangyh/miniconda3/envs/AT/lib/python3.8/site-packages/torch/include/THC -I/home/zhangyh/miniconda3/envs/AT/include/python3.8 -c
+cuda_post_cflags = -D__CUDA_NO_HALF_OPERATORS__ -D__CUDA_NO_HALF_CONVERSIONS__ -D__CUDA_NO_BFLOAT16_CONVERSIONS__ -D__CUDA_NO_HALF2_OPERATORS__ --expt-relaxed-constexpr --compiler-options ''"'"'-fPIC'"'"'' -DTORCH_API_INCLUDE_EXTENSION_H '-DPYBIND11_COMPILER_TYPE="_gcc"' '-DPYBIND11_STDLIB="_libstdcpp"' '-DPYBIND11_BUILD_ABI="_cxxabi1011"' -DTORCH_EXTENSION_NAME=libnat_cuda -D_GLIBCXX_USE_CXX11_ABI=0 -gencode=arch=compute_86,code=compute_86 -gencode=arch=compute_86,code=sm_86 -std=c++14
+ldflags = 
+
+rule compile
+  command = $cxx -MMD -MF $out.d $cflags -c $in -o $out $post_cflags
+  depfile = $out.d
+  deps = gcc
+
+rule cuda_compile
+  depfile = $out.d
+  deps = gcc
+  command = $nvcc  $cuda_cflags -c $in -o $out $cuda_post_cflags
+
+
+
+build /mnt/zhangyh/fairseq-AT/build/temp.linux-x86_64-cpython-38/fairseq/clib/libnat_cuda/binding.o: compile /mnt/zhangyh/fairseq-AT/fairseq/clib/libnat_cuda/binding.cpp
+build /mnt/zhangyh/fairseq-AT/build/temp.linux-x86_64-cpython-38/fairseq/clib/libnat_cuda/edit_dist.o: cuda_compile /mnt/zhangyh/fairseq-AT/fairseq/clib/libnat_cuda/edit_dist.cu
+
+
+
+
+

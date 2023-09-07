@@ -1,0 +1,440 @@
+S-10	
+T-10	Wir kamen zur Ausfahrt 238, Lebanon, Tennessee.
+H-10	-0.5908152461051941	▁Wir ▁erreicht en ▁die ▁Aus fahrt ▁23 8 , ▁den ▁Li ban on , ▁T en ness e e .
+D-10	-0.5908152461051941	Wir erreichten die Ausfahrt 238, den Libanon, Tennessee.
+P-10	-0.4227 -4.9646 -0.2821 -0.6659 -0.1822 -0.2061 -0.2180 -0.2443 -0.7202 -1.0444 -0.1556 -0.2493 -0.1867 -0.5065 -0.7244 -0.3235 -0.1838 -0.2649 -0.2410 -0.3040 -0.3170
+S-62	
+T-62	Entscheiden Sie sich für ein CO2-neutrales Leben.
+H-62	-0.612426221370697	▁Be denken ▁Sie : ▁Ent sche id en ▁Sie ▁sich ▁für ▁ein ▁CO 2 - neu tra les ▁Leben .
+D-62	-0.612426221370697	Bedenken Sie: Entscheiden Sie sich für ein CO2-neutrales Leben.
+P-62	-2.0269 -0.2310 -0.2606 -2.1974 -1.3936 -0.5998 -0.3540 -0.2925 -0.3475 -0.5708 -1.0976 -0.4425 -1.2480 -0.2479 -0.2729 -0.0361 -0.1486 -0.2995 -0.1607 -0.3386 -0.2945
+S-66	
+T-66	Genauer wird das auf climatecrisis.net erklärt.
+H-66	-0.6401156187057495	▁Und ▁was ▁es ▁bedeutet , ▁wird ▁auf ▁C li mate C ris is . net ▁ausge arbeit et .
+D-66	-0.6401156187057495	Und was es bedeutet, wird auf ClimateCrisis.net ausgearbeitet.
+P-66	-0.8510 -0.8507 -0.9368 -0.3223 -0.8208 -1.7399 -0.8144 -1.5930 -0.1500 -0.2017 -0.4854 -0.1786 -0.0676 -0.2237 -0.2706 -2.4199 -0.0912 -0.1978 -0.2940 -0.2929
+S-26	
+T-26	Und die war schon in Städten überall in den USA gedruckt worden — auch in Monterey, das habe ich überprüft.
+H-26	-0.6083099842071533	▁Es ▁wurde ▁in ▁Mo nte re y ▁ge druck t , ▁ich ▁habe ▁es ▁über prüf t . ▁( Gelächter )
+D-26	-0.6083099842071533	Es wurde in Monterey gedruckt, ich habe es überprüft. (Gelächter)
+P-26	-1.6712 -0.4875 -0.2706 -0.3029 -0.2277 -0.1932 -0.2407 -0.2477 -0.0779 -0.2516 -0.8320 -1.1851 -1.0334 -1.5195 -1.7101 -0.2538 -0.2791 -0.3016 -0.3381 -1.2063 -0.3000 -0.4527
+S-47	
+T-47	Aber sie lenken uns auch sehr effektiv vom richtigen Weg ab.
+H-47	-0.7957843542098999	▁Aber ▁sie ▁sind ▁auch ▁sehr ▁effektiv ▁dabei , ▁unseren ▁Weg ▁um zu len ken .
+D-47	-0.7957843542098999	Aber sie sind auch sehr effektiv dabei, unseren Weg umzulenken.
+P-47	-0.6822 -0.3970 -0.8983 -0.4450 -0.5680 -0.7142 -1.9972 -0.4003 -0.6341 -0.6480 -3.0664 -0.1856 -1.3055 -0.1850 -0.3082 -0.2974
+S-7	
+T-7	Haben Sie schon mal vom Phantomschmerz gehört? (Lachen) Wir saßen in einem gemieteten Ford Taurus.
+H-7	-0.7167531251907349	▁( Lachen ) ▁Sie ▁haben ▁von ▁Ph ant om schmerz en ▁gehört ? ▁( Lachen )
+D-7	-0.7167531251907349	(Lachen) Sie haben von Phantomschmerzen gehört? (Lachen)
+P-7	-2.0214 -1.1196 -0.2563 -1.2449 -0.5998 -1.7358 -0.7775 -0.1799 -0.1333 -0.8923 -0.2988 -0.5642 -0.3837 -0.3618 -0.8767 -0.2856 -0.4531
+S-55	
+T-55	Da sind wir noch nicht ganz. Was kann nun der Einzelne tun?
+H-55	-0.8817098140716553	▁Noch ▁nicht ▁ganz ▁da . ▁Okay . ▁Nun , ▁was ▁können ▁Sie ▁tun ?
+D-55	-0.8817098140716553	Noch nicht ganz da. Okay. Nun, was können Sie tun?
+P-55	-2.7138 -0.3251 -0.1185 -1.4936 -0.4261 -1.6131 -0.4491 -2.3211 -0.3842 -0.2501 -1.1850 -0.5357 -0.8038 -0.2724 -0.3340
+S-15	
+T-15	Es gab eine ganze Reihe solcher Offenbarungen.
+H-15	-0.6698572039604187	▁Es ▁gab ▁eine ▁Reihe ▁von ▁Er le ucht ungen .
+D-15	-0.6698572039604187	Es gab eine Reihe von Erleuchtungen.
+P-15	-0.4161 -1.1084 -0.7652 -1.8116 -0.2168 -1.1776 -0.0620 -0.2303 -0.9653 -0.3006 -0.3145
+S-57	
+T-57	Die meisten dieser Ausgaben sparen langfristig auch Geld.
+H-57	-0.3493262827396393	▁Die ▁meisten ▁dieser ▁Aus gab en ▁sind ▁auch ▁profit abel .
+D-57	-0.3493262827396393	Die meisten dieser Ausgaben sind auch profitabel.
+P-57	-0.4032 -0.2294 -0.4437 -0.2457 -0.1894 -0.2795 -0.5677 -0.6180 -0.4979 -0.1238 -0.3006 -0.2931
+S-33	
+T-33	Ich aktualisiere sie jedes Mal, bevor ich sie zeige.
+H-33	-0.5137180685997009	▁Ich ▁a kt ual is ier e ▁die ▁Dia s how ▁jedes ▁Mal , ▁wenn ▁ich ▁sie ▁gebe .
+D-33	-0.5137180685997009	Ich aktualisiere die Diashow jedes Mal, wenn ich sie gebe.
+P-33	-0.5017 -0.5697 -0.2340 -0.1779 -0.7190 -0.2014 -0.2655 -0.7370 -1.1064 -0.5097 -0.1285 -0.4915 -0.7011 -0.5309 -0.3262 -0.2817 -0.4570 -1.7389 -0.2920 -0.3041
+S-52	
+T-52	Die Effizienz anderer Transportmittel ist ebenso wichtig wie bei Autos und LKW!
+H-52	-0.5726743936538696	▁Andere ▁Transport e ffizi enz ▁ist ▁genauso ▁wichtig ▁wie ▁Autos ▁und ▁LKW s .
+D-52	-0.5726743936538696	Andere Transporteffizienz ist genauso wichtig wie Autos und LKWs.
+P-52	-1.0715 -1.5930 -0.1742 -0.1932 -0.3179 -0.3247 -1.0564 -0.2890 -0.2808 -0.3856 -0.3485 -0.9729 -0.9927 -0.2952 -0.2944
+S-74	
+T-74	Langfristig tun die Leute, wofür man sie bezahlt.
+H-74	-0.8320623636245728	▁Mit ▁der ▁Zeit ▁tun ▁die ▁Menschen , ▁wofür ▁sie ▁bezahlt ▁werden .
+D-74	-0.8320623636245728	Mit der Zeit tun die Menschen, wofür sie bezahlt werden.
+P-74	-1.2498 -0.2983 -0.1705 -1.2141 -1.1237 -1.2930 -1.1625 -0.9410 -1.6278 -0.8235 -0.3208 -0.2997 -0.2922
+S-71	
+T-71	Versuchen Sie, Ihr Unternehmen CO2-neutral zu führen.
+H-71	-0.7603883743286133	▁Betracht en ▁Sie ▁als ▁nächste s , ▁Ihr ▁Unternehmen ▁ko hl en stoff neu t ral ▁zu ▁machen .
+D-71	-0.7603883743286133	Betrachten Sie als nächstes, Ihr Unternehmen kohlenstoffneutral zu machen.
+P-71	-3.2237 -0.2242 -0.5319 -1.9253 -0.8923 -0.2626 -0.6621 -1.4227 -1.2995 -0.9484 -0.0467 -0.2705 -0.0820 -0.3907 -0.4398 -0.2641 -0.4117 -1.2988 -0.3021 -0.3090
+S-45	
+T-45	Es ist nicht negativ, sondern positiv.
+H-45	-0.5415242910385132	▁Es ▁ist ▁nicht ▁negativ , ▁es ▁ist ▁positiv .
+D-45	-0.5415242910385132	Es ist nicht negativ, es ist positiv.
+P-45	-1.1434 -0.3422 -0.4732 -0.3385 -1.1391 -0.8981 -0.2668 -0.2336 -0.2713 -0.3092
+S-78	
+T-78	Lehren Sie andere, lernen Sie, reden Sie darüber.
+H-78	-0.8688591718673706	▁Lehr en ▁Sie ▁andere , ▁lernen ▁Sie , ▁sprechen ▁Sie ▁darüber .
+D-78	-0.8688591718673706	Lehren Sie andere, lernen Sie, sprechen Sie darüber.
+P-78	-2.9928 -0.8018 -0.5672 -0.6832 -0.5616 -0.6561 -0.3220 -2.3946 -1.2260 -0.3404 -0.1626 -0.2911 -0.2957
+S-37	
+T-37	Das gilt jetzt nur für die USA.
+H-37	-0.4953146278858185	▁Das ▁ist ▁nur ▁für ▁die ▁Vereinigte n ▁Staaten ▁von ▁Amerika .
+D-37	-0.4953146278858185	Das ist nur für die Vereinigten Staaten von Amerika.
+P-37	-0.7438 -1.4164 -0.3567 -0.5262 -0.2928 -0.6737 -0.2729 -0.1910 -0.6940 -0.1844 -0.2921 -0.2998
+S-51	
+T-51	Aber es ist nur ein Teil des Ganzen.
+H-51	-0.534829318523407	▁Aber ▁es ▁ist ▁Teil ▁des ▁Rätsel s .
+D-51	-0.534829318523407	Aber es ist Teil des Rätsels.
+P-51	-0.5067 -0.8948 -0.3688 -0.9685 -0.5187 -0.6676 -0.2764 -0.3141 -0.2978
+S-77	
+T-77	Werden Sie ein Katalysator für den Wandel.
+H-77	-0.48906880617141724	▁Wer den ▁Sie ▁ein ▁Ka ta ly s ator ▁der ▁Veränderung .
+D-77	-0.48906880617141724	Werden Sie ein Katalysator der Veränderung.
+P-77	-0.9071 -0.7093 -0.4140 -0.5911 -0.2530 -0.1848 -0.1705 -0.3312 -0.1954 -1.5541 -0.4511 -0.3029 -0.2933
+S-76	
+T-76	Darüber lässt sich noch so einiges sagen.
+H-76	-0.6712706685066223	▁Darüber ▁muss ▁noch ▁viel ▁mehr ▁gesagt ▁werden .
+D-76	-0.6712706685066223	Darüber muss noch viel mehr gesagt werden.
+P-76	-1.2207 -1.2053 -1.2427 -0.8123 -0.5315 -0.1412 -0.2931 -0.3065 -0.2881
+S-29	
+T-29	Chris Anderson: Abgemacht!
+H-29	-0.5789999961853027	▁Chris ▁Anderson : ▁Es ▁ist ▁ein ▁Geschäft !
+D-29	-0.5789999961853027	Chris Anderson: Es ist ein Geschäft!
+P-29	-0.3166 -0.1786 -0.3133 -0.9775 -0.4557 -1.0124 -1.3622 -0.2916 -0.3031
+S-27	
+T-27	Ich wollte eigentlich über Informationsökologie sprechen.
+H-27	-0.4495624303817749	▁Ich ▁wollte ▁über ▁Information s ö k ologie ▁sprechen .
+D-27	-0.4495624303817749	Ich wollte über Informationsökologie sprechen.
+P-27	-0.4021 -1.2139 -0.7927 -0.4793 -0.3727 -0.2780 -0.1113 -0.1024 -0.5949 -0.2997 -0.2982
+S-46	
+T-46	Diese Investitionen amortisieren sich von selbst.
+H-46	-0.5887969732284546	▁Das ▁sind ▁Investition en , ▁die ▁sich ▁selbst ▁bezahlen .
+D-46	-0.5887969732284546	Das sind Investitionen, die sich selbst bezahlen.
+P-46	-1.5873 -0.3100 -0.4062 -0.2764 -0.3841 -0.3290 -0.7439 -0.7636 -1.0184 -0.3600 -0.2979
+S-6	
+T-6	Hinter mir war gar keine Autokolonne.
+H-6	-1.230378270149231	▁Da ▁hin ten ▁gab ▁es ▁keine ▁Motor s ä ul e .
+D-6	-1.230378270149231	Da hinten gab es keine Motorsäule.
+P-6	-1.5830 -2.5491 -0.1089 -0.8317 -0.2212 -0.5902 -1.3865 -3.7896 -2.6613 -1.0472 -0.5626 -0.3518 -0.3119
+S-87	
+T-87	Wir brauchen auch Republikaner.
+H-87	-0.38619884848594666	▁Wir ▁brauchen ▁auch ▁Republikaner .
+D-87	-0.38619884848594666	Wir brauchen auch Republikaner.
+P-87	-0.6370 -0.3072 -0.5975 -0.1681 -0.3004 -0.3071
+S-67	
+T-67	Da gibt es einen CO2-Rechner.
+H-67	-0.6451427936553955	▁Es ▁gibt ▁einen ▁CO 2 - Re ch ner .
+D-67	-0.6451427936553955	Es gibt einen CO2-Rechner.
+P-67	-1.4748 -0.3154 -0.6543 -1.8334 -0.3366 -0.5868 -0.4172 -0.6122 -0.2452 -0.3243 -0.2963
+S-80	
+T-80	Und er kommt im Mai heraus.
+H-80	-0.7257025241851807	▁Und ▁es ▁kommt ▁im ▁Mai ▁heraus .
+D-80	-0.7257025241851807	Und es kommt im Mai heraus.
+P-80	-0.8398 -1.7630 -1.4417 -0.7092 -0.2766 -0.2254 -0.2520 -0.2979
+S-59	
+T-59	Ich sprach von Autos — kaufen Sie eins mit Hybridantrieb.
+H-59	-0.618954062461853	▁K auf en ▁Sie ▁ grün en ▁Strom , ▁wo ▁Sie ▁können .
+D-59	-0.618954062461853	Kaufen Sie grünen Strom, wo Sie können.
+P-59	-0.9798 -0.0834 -1.1133 -0.3774 -1.1771 -0.1959 -0.7130 -0.1987 -1.3630 -0.5383 -0.6190 -0.7063 -0.3055 -0.2947
+S-9	
+T-9	Wir waren auf der I-40.
+H-9	-0.47445157170295715	▁Wir ▁waren ▁auf ▁der ▁I - 40 .
+D-9	-0.47445157170295715	Wir waren auf der I-40.
+P-9	-0.4120 -0.5000 -1.0675 -0.7165 -0.1862 -0.4932 -0.2515 -0.3148 -0.3285
+S-58	
+T-58	Isolierung, besseres Baudesign, kaufen Sie möglichst umweltfreundlichen Strom.
+H-58	-0.3887198269367218	▁I s ol ation , ▁bessere s ▁Design .
+D-58	-0.3887198269367218	Isolation, besseres Design.
+P-58	-0.4025 -0.3029 -0.1719 -1.0209 -0.4207 -0.3432 -0.3507 -0.2271 -0.3372 -0.3100
+S-56	
+T-56	Emissionen im eigenen Haus reduzieren.
+H-56	-0.5740653276443481	▁Re du zieren ▁Sie ▁die ▁E mission en ▁zu ▁Hause .
+D-56	-0.5740653276443481	Reduzieren Sie die Emissionen zu Hause.
+P-56	-1.5835 -0.3789 -0.6292 -0.2363 -0.7416 -0.3358 -0.2634 -0.2882 -1.5238 -0.2448 -0.3639 -0.2994
+S-32	
+T-32	Ein Wort zur Diashow.
+H-32	-0.7252790927886963	▁Nun , ▁die ▁Dia s how .
+D-32	-0.7252790927886963	Nun, die Diashow.
+P-32	-1.4864 -1.4932 -0.7201 -0.7714 -0.5138 -0.1132 -0.3761 -0.3280
+S-44	
+T-44	Das Vorzeichen ist falsch.
+H-44	-0.66766357421875	▁Das ▁Zeichen ▁ist ▁falsch .
+D-44	-0.66766357421875	Das Zeichen ist falsch.
+P-44	-0.5583 -1.9957 -0.5252 -0.2681 -0.3459 -0.3127
+S-98	
+T-98	Heute brauchen wir viele kurze, brandaktuelle 28 - 30 Sekunden lange Fernsehspots.
+H-98	-0.8065122961997986	▁Es ▁ist ▁jetzt ▁Wiederholung ▁von ▁kurz en , ▁Ho t - B ut ton , ▁30 - S e kunde n - , ▁28 - S e kunde n - T V - An ze igen .
+D-98	-0.8065122961997986	Es ist jetzt Wiederholung von kurzen, Hot-Button, 30-Sekunden-, 28-Sekunden-TV-Anzeigen.
+P-98	-1.8397 -2.1771 -1.3352 -1.9567 -0.9172 -0.6501 -0.3224 -0.5608 -1.9189 -0.2890 -1.0182 -1.2695 -0.2824 -0.1879 -1.3204 -0.1812 -1.2762 -0.6568 -0.3068 -0.1660 -0.5081 -0.4564 -3.1038 -0.2537 -0.2756 -0.3238 -0.2540 -0.2781 -0.3684 -0.3140 -2.0983 -0.2429 -0.3646 -2.0778 -0.1749 -0.3134 -0.3033 -0.3039
+S-1	
+T-1	Das meine ich ernst, teilweise deshalb — weil ich es wirklich brauchen kann! (Lachen) Versetzen Sie sich mal in meine Lage! (Lachen) (Applaus) Ich bin bin acht Jahre lang mit der Air Force Two geflogen.
+H-1	-0.7092703580856323	▁Und ▁ich ▁sage ▁das ▁auf richtig , ▁teilweise , ▁weil ▁ich ▁das ▁brauche . ▁( Lachen )
+D-1	-0.7092703580856323	Und ich sage das aufrichtig, teilweise, weil ich das brauche. (Lachen)
+P-1	-0.9907 -0.8782 -0.2771 -0.3072 -1.3928 -0.0825 -0.4439 -1.0852 -1.6503 -0.2244 -1.2916 -1.0117 -0.4685 -0.3608 -0.3509 -1.1792 -0.3348 -0.4370
+S-22	
+T-22	Er wedelte mit einem Stück Papier und schrie: "Rufen Sie Washington an!
+H-22	-0.8109241724014282	▁Und ▁er ▁we del te ▁mit ▁einem ▁Stück ▁Papier , ▁und ▁er ▁rief : ▁" C all ▁Washington !
+D-22	-0.8109241724014282	Und er wedelte mit einem Stück Papier, und er rief: "Call Washington!
+P-22	-1.3632 -0.3337 -2.6587 -1.1962 -0.2723 -0.7661 -0.5425 -0.5561 -0.2198 -1.7636 -0.6354 -0.7273 -1.6004 -0.2456 -0.4449 -2.0405 -0.1557 -0.0913 -0.2915 -0.3137
+S-42	
+T-42	Endverbraucher-Effizienz bei Strom und anderen Energien, das sind die niedrig hängenden Trauben.
+H-42	-0.8133512735366821	▁End verbrauch er - E ffizi enz ▁und ▁End verbrauch er - E ner gie ▁sind ▁die ▁niedrig ▁ hängen den ▁Fr ü chte .
+D-42	-0.8133512735366821	Endverbraucher-Effizienz und Endverbraucher-Energie sind die niedrig hängenden Früchte.
+P-42	-2.6691 -0.0869 -0.7753 -1.4453 -0.1424 -0.2494 -0.2302 -0.9052 -3.5430 -0.2070 -0.5310 -1.1758 -0.8621 -0.5984 -0.1977 -2.2489 -0.7446 -2.0878 -0.2444 -0.3033 -0.1689 -0.6754 -0.1225 -0.3182 -0.3201 -0.2943
+S-3	
+T-3	Ich erzähle Ihnen mal eine Geschichte, dann verstehen Sie mich vielleicht besser.
+H-3	-0.526013970375061	▁Ich ▁werde ▁Ihnen ▁eine ▁kurze ▁Geschichte ▁erzählen , ▁um ▁zu ▁ver an schau lichen , ▁wie ▁das ▁für ▁mich ▁war .
+D-3	-0.526013970375061	Ich werde Ihnen eine kurze Geschichte erzählen, um zu veranschaulichen, wie das für mich war.
+P-3	-0.4104 -1.5617 -0.4696 -0.5480 -0.5098 -0.1353 -0.2997 -0.4512 -0.4442 -0.5733 -1.2438 -0.5198 -0.1757 -0.2304 -0.3398 -0.3501 -0.8264 -0.3228 -0.3591 -1.2042 -0.3031 -0.2941
+S-96	
+T-96	Denn gegenwärtig dürfen die Politiker nicht das tun, was getan werden muss.
+H-96	-0.5764821171760559	▁Denn ▁zur ▁Zeit ▁haben ▁die ▁Politiker ▁keine ▁Erlaubnis ▁zu ▁tun , ▁was ▁getan ▁werden ▁muss .
+D-96	-0.5764821171760559	Denn zur Zeit haben die Politiker keine Erlaubnis zu tun, was getan werden muss.
+P-96	-1.0443 -2.0187 -0.6109 -0.4201 -0.6477 -0.1393 -0.4919 -0.2926 -1.2250 -0.4605 -0.6432 -0.3140 -0.4318 -0.1949 -0.2977 -0.2749 -0.2927
+S-72	
+T-72	Auch das haben einige hier schon getan, und es ist leichter, als man denkt.
+H-72	-0.7221303582191467	▁Auch ▁das ▁haben ▁einige ▁von ▁uns ▁getan , ▁und ▁es ▁ist ▁nicht ▁so ▁schwer , ▁wie ▁Sie ▁denken .
+D-72	-0.7221303582191467	Auch das haben einige von uns getan, und es ist nicht so schwer, wie Sie denken.
+P-72	-2.6354 -0.6291 -0.7112 -0.8092 -0.6171 -0.3060 -1.1175 -1.1108 -0.5760 -0.9726 -0.3139 -0.4286 -0.2154 -1.2274 -0.4946 -0.2797 -1.0274 -0.3661 -0.2996 -0.3049
+S-38	
+T-38	Der historische Durchschnitt für Januar liegt bei minus 0,6 Grad. Im letzten Monat waren es plus 4,2 Grad.
+H-38	-0.5636813640594482	▁Der ▁historische ▁Durchschnitt ▁für ▁Januar ▁liegt ▁bei ▁3 1 ▁Grad . ▁Le tzt en ▁Monat ▁waren ▁es ▁3 9 , 5 ▁Grad .
+D-38	-0.5636813640594482	Der historische Durchschnitt für Januar liegt bei 31 Grad. Letzten Monat waren es 39,5 Grad.
+P-38	-0.7729 -0.5305 -0.1887 -1.8010 -0.1867 -1.4757 -0.2097 -0.7426 -0.2071 -0.2902 -1.6835 -0.6247 -0.2080 -0.3496 -0.1223 -1.7157 -0.2466 -0.5618 -0.2526 -0.3692 -0.3529 -0.0442 -0.2606 -0.3316
+S-11	
+T-11	Wir fuhren ab und suchten nach einem... wir fanden schließlich ein Shoney 's. Für alle, die es nicht kennen: Das ist eine billige Familienrestaurantkette. Wir gingen rein und setzten uns in eine Nische.
+H-11	-1.0180364847183228	▁Wir ▁gingen ▁vom ▁Ausgang , ▁wir ▁fanden ▁ein ▁S ho ney ▁' s ▁Restaurant .
+D-11	-1.0180364847183228	Wir gingen vom Ausgang, wir fanden ein Shoney 's Restaurant.
+P-11	-0.4631 -2.2876 -2.3058 -0.6791 -1.7477 -0.9681 -0.3482 -0.4109 -2.3951 -0.2509 -2.4748 -0.4440 -0.3454 -0.5482 -0.3157 -0.3041
+S-43	
+T-43	Effizienz und Umweltschutz: Das ist kein Kostenfaktor, sondern ein Gewinnfaktor.
+H-43	-0.8043680191040039	▁Effizienz ▁und ▁Natur schutz ▁– ▁das ▁ist ▁kein ▁Kosten faktor , ▁sondern ▁ein ▁Gewinn .
+D-43	-0.8043680191040039	Effizienz und Naturschutz – das ist kein Kostenfaktor, sondern ein Gewinn.
+P-43	-0.5735 -0.3213 -2.2712 -0.3952 -1.7660 -0.7148 -0.4074 -1.5960 -0.6636 -0.9661 -1.0518 -0.7026 -0.3854 -0.4834 -0.2820 -0.2896
+S-36	
+T-36	Erst in den letzten beiden Tagen hatten wir neue Januar-Temperaturrekorde.
+H-36	-0.7705109715461731	▁Erst ▁in ▁den ▁letzten ▁zwei ▁Tagen ▁hatten ▁wir ▁die ▁neuen ▁Temperatur re kor de ▁im ▁Januar .
+D-36	-0.7705109715461731	Erst in den letzten zwei Tagen hatten wir die neuen Temperaturrekorde im Januar.
+P-36	-1.4793 -0.5548 -0.3130 -0.3165 -0.5807 -0.2539 -2.9291 -0.2966 -0.8442 -0.8704 -0.2771 -2.4691 -0.3314 -1.2092 -0.3112 -0.1548 -0.3790 -0.2990
+S-94	
+T-94	Helfen Sie bei der groß angelegten Meinungskampagne, die im Frühling beginnt.
+H-94	-0.7323119044303894	▁He lf en ▁Sie ▁mit ▁der ▁Überzeugung s ka mp ag ne , ▁die ▁diesen ▁Früh ling ▁start en ▁wird .
+D-94	-0.7323119044303894	Helfen Sie mit der Überzeugungskampagne, die diesen Frühling starten wird.
+P-94	-1.2750 -0.2196 -0.3169 -0.2875 -1.1470 -0.7469 -5.2793 -0.3403 -0.4392 -0.2037 -0.1912 -0.2400 -0.4621 -0.3327 -1.2940 -0.1342 -0.3338 -1.5812 -0.3772 -0.2651 -0.3333 -0.3106
+S-24	
+T-24	Dann fiel mir ein, dass da so einiges in Frage kam. (Lachen) (Applaus)
+H-24	-0.7542957663536072	▁Dann ▁erinnert e ▁ich ▁mich ▁an ▁ein ▁paar ▁Dinge . ▁( Gelächter )
+D-24	-0.7542957663536072	Dann erinnerte ich mich an ein paar Dinge. (Gelächter)
+P-24	-0.8610 -0.7936 -0.2147 -0.3848 -0.3196 -2.1205 -2.1328 -0.5431 -0.6387 -0.3086 -0.3611 -1.1846 -0.3154 -0.3815
+S-8	
+T-8	Es war Zeit zum Abendessen und wir hielten Ausschau nach einem Restaurant.
+H-8	-0.7714347243309021	▁Es ▁war ▁Di n ner zeit ▁und ▁wir ▁suchte n ▁nach ▁einem ▁Ort ▁zum ▁Essen .
+D-8	-0.7714347243309021	Es war Dinnerzeit und wir suchten nach einem Ort zum Essen.
+P-8	-0.4603 -0.4521 -3.2379 -0.2532 -0.0678 -1.5641 -1.0110 -0.2869 -1.5645 -0.2842 -0.5565 -0.2328 -1.1053 -0.6559 -0.7652 -0.3139 -0.3028
+S-93	
+T-93	Der Markt wird dieses Problem lösen — wenn wir das schaffen.
+H-93	-0.7330238223075867	▁Der ▁Markt ▁wird ▁daran ▁arbeiten , ▁dieses ▁Problem ▁zu ▁lösen ▁— ▁wenn ▁wir ▁das ▁erreichen ▁können .
+D-93	-0.7330238223075867	Der Markt wird daran arbeiten, dieses Problem zu lösen — wenn wir das erreichen können.
+P-93	-0.4018 -0.2159 -0.3691 -2.8213 -0.1526 -0.6451 -0.5408 -0.2985 -0.2900 -0.4529 -2.2628 -0.5141 -0.2781 -0.8324 -1.8155 -0.6869 -0.3194 -0.2972
+S-95	
+T-95	Wir müssen die Amerikaner zum Umdenken bringen.
+H-95	-0.664635181427002	▁Wir ▁müssen ▁die ▁Einstellung ▁des ▁amerikanischen ▁Volk es ▁ändern .
+D-95	-0.664635181427002	Wir müssen die Einstellung des amerikanischen Volkes ändern.
+P-95	-0.3943 -0.2651 -0.8144 -2.4909 -1.2337 -0.5762 -0.1573 -0.3422 -0.4171 -0.3156 -0.3041
+S-35	
+T-35	Wie beim Strandgutsammeln — jedes Mal, wenn die Flut da war, findet man neue Muschelschalen.
+H-35	-0.9090173840522766	▁Es ▁ist ▁wie ▁Be ach - Co m b ing . ▁Jedes ▁Mal , ▁wenn ▁die ▁Fl ut ▁here in kommt ▁und ▁raus kommt , ▁findet ▁man ▁ein ▁paar ▁weitere ▁Mu sch eln .
+D-35	-0.9090173840522766	Es ist wie Beach-Combing. Jedes Mal, wenn die Flut hereinkommt und rauskommt, findet man ein paar weitere Muscheln.
+P-35	-1.5325 -0.4363 -0.5334 -3.9400 -0.0733 -0.7721 -1.7622 -0.2128 -1.3866 -0.7839 -1.5522 -1.5843 -0.7411 -0.8041 -0.2325 -1.1992 -0.3111 -0.1836 -2.2368 -0.2255 -0.8801 -1.1131 -1.5238 -0.5284 -0.3307 -0.7393 -0.3467 -2.2700 -0.2863 -1.2212 -0.6653 -0.4149 -0.3484 -0.3255 -0.3186
+S-12	
+T-12	Die Kellnerin kam zu uns und machte viel Aufhebens um Tipper.
+H-12	-0.7957913279533386	▁Wir ▁gingen ▁rein ▁und ▁setzt en ▁uns ▁am ▁Stand , ▁und ▁die ▁K ell n erin ▁kam ▁ rüber , ▁machte ▁einen ▁großen ▁Auf ru hr ▁über ▁T ip per .
+D-12	-0.7957913279533386	Wir gingen rein und setzten uns am Stand, und die Kellnerin kam rüber, machte einen großen Aufruhr über Tipper.
+P-12	-0.5013 -1.5424 -2.3935 -0.5240 -0.3476 -0.2669 -0.2797 -1.3487 -2.4716 -1.7317 -0.7802 -0.3647 -0.1718 -0.0663 -0.3433 -0.9285 -0.3471 -1.8736 -0.2753 -1.1799 -1.2639 -2.0720 -1.1567 -0.5202 -0.0948 -0.1116 -0.5475 -0.8960 -0.2932 -0.1633 -0.3084 -0.2994
+S-41	
+T-41	Zunächst steuern wir hier mit dem US-Beitrag zur Erderwärmung hin, wenn nichts unternommen wird.
+H-41	-0.9407132863998413	▁Zunächst ▁wird ▁pro g no st iz iert , ▁dass ▁wir ▁mit ▁dem ▁US - Be it r ag ▁zur ▁Erde r w är m ung ▁weiter machen , ▁wie ▁bisher .
+D-41	-0.9407132863998413	Zunächst wird prognostiziert, dass wir mit dem US-Beitrag zur Erderwärmung weitermachen, wie bisher.
+P-41	-2.6036 -1.7307 -2.2078 -0.5992 -0.1828 -0.1370 -0.3065 -0.1829 -0.2824 -0.5168 -1.0685 -3.1029 -0.4482 -2.2016 -0.3741 -0.9942 -0.3793 -0.3221 -0.1235 -0.2781 -0.8704 -0.2487 -0.2425 -0.2161 -0.2836 -0.2573 -3.5615 -0.8582 -1.9290 -2.4651 -1.4542 -0.3305 -0.2842
+S-79	
+T-79	Der Film ist eine Filmversion der Diashow, die ich vorgestern gezeigt habe, nur viel unterhaltsamer.
+H-79	-0.6332772970199585	▁Der ▁Film ▁ist ▁eine ▁Film version ▁der ▁Dia s how , ▁die ▁ich ▁vor ▁zwei ▁N ächte n ▁gab , ▁außer ▁dass ▁es ▁viel ▁unter hal t sam er ▁ist .
+D-79	-0.6332772970199585	Der Film ist eine Filmversion der Diashow, die ich vor zwei Nächten gab, außer dass es viel unterhaltsamer ist.
+P-79	-0.7270 -0.2639 -0.4511 -0.4479 -1.1273 -0.4059 -0.9647 -1.1433 -0.5631 -0.1020 -0.5116 -0.2898 -0.2715 -0.6786 -0.3308 -0.4168 -0.1589 -0.2553 -1.9868 -0.4754 -1.8722 -1.9502 -1.2973 -0.8585 -0.2122 -0.4173 -0.2706 -0.4137 -0.2682 -0.5166 -0.3185 -0.2978
+S-86	
+T-86	Das bedeutet nicht, dass ich versuchen will, aus Republikanern Demokraten zu machen.
+H-86	-0.646446943283081	▁Das ▁heißt ▁nicht , ▁dass ▁ich ▁versuche , ▁Sie ▁als ▁Republikaner ▁zu ▁überzeugen , ▁ein ▁Dem ok rat ▁zu ▁sein .
+D-86	-0.646446943283081	Das heißt nicht, dass ich versuche, Sie als Republikaner zu überzeugen, ein Demokrat zu sein.
+P-86	-1.2813 -0.7054 -0.3476 -0.3012 -0.5044 -0.6617 -1.7574 -0.3186 -1.3812 -1.0671 -0.0623 -1.3432 -1.0959 -0.4064 -1.0463 -0.1869 -0.2278 -0.2364 -0.2879 -0.4193 -0.2839 -0.2995
+S-2	
+T-2	Jetzt muss ich meine Schuhe ausziehen, um überhaupt an Bord zu kommen! (Applaus)
+H-2	-0.5552839040756226	▁Jetzt ▁muss ▁ich ▁meine ▁Schuhe ▁oder ▁S tief el ▁aus ziehen , ▁um ▁in ▁ein ▁Flugzeug ▁zu ▁steigen ! ▁( Lachen ) ▁( Applaus )
+D-2	-0.5552839040756226	Jetzt muss ich meine Schuhe oder Stiefel ausziehen, um in ein Flugzeug zu steigen! (Lachen) (Applaus)
+P-2	-1.0672 -0.2161 -0.2911 -0.6707 -0.1188 -0.6610 -0.5581 -0.0915 -0.1622 -0.8310 -0.4053 -0.8021 -0.6017 -0.7181 -0.8200 -0.2215 -0.4165 -1.8958 -0.4892 -0.3472 -1.3536 -0.3123 -0.3103 -0.3697 -0.2914 -0.4151
+S-90	
+T-90	Und zwar aus folgendem Grund: Solange die USA außen vor bleiben, ist das Weltsystem kein geschlossenes System.
+H-90	-0.8247969746589661	▁Hier ▁ist ▁der ▁Grund : ▁So lang e ▁die ▁USA ▁aus ▁dem ▁Welt system ▁aus geschlossen ▁sind , ▁ist ▁es ▁kein ▁ geschlossen es ▁System .
+D-90	-0.8247969746589661	Hier ist der Grund: Solange die USA aus dem Weltsystem ausgeschlossen sind, ist es kein geschlossenes System.
+P-90	-3.9231 -1.4773 -0.9685 -0.3055 -0.4318 -0.6234 -0.5020 -0.3205 -0.3977 -0.8072 -2.0301 -0.3579 -0.7339 -1.2364 -1.9895 -1.6500 -0.5526 -0.3100 -0.7498 -1.0174 -0.3798 -0.3291 -0.1507 -0.2488 -0.1908 -0.2905 -0.2954
+S-48	
+T-48	Autos und LKW — darüber habe ich in der Diashow schon gesprochen, aber ich möchte, dass Sie es im rechten Licht betrachten.
+H-48	-0.7590520977973938	▁Autos ▁und ▁La st wagen ▁– ▁darüber ▁habe ▁ich ▁in ▁der ▁Dia s how ▁gesprochen , ▁aber ▁ich ▁möchte , ▁dass ▁Sie ▁es ▁in ▁Perspektive ▁setzen .
+D-48	-0.7590520977973938	Autos und Lastwagen – darüber habe ich in der Diashow gesprochen, aber ich möchte, dass Sie es in Perspektive setzen.
+P-48	-0.6927 -0.2728 -2.4999 -0.3066 -0.3908 -1.5197 -0.8834 -0.4309 -0.3023 -1.5998 -0.4909 -0.9884 -0.6380 -0.1763 -0.9222 -0.4684 -0.3554 -0.4635 -0.3346 -0.3818 -0.2438 -0.6316 -0.8660 -0.6122 -3.1383 -1.0395 -0.2998 -0.3039
+S-69	
+T-69	Sie können sehr genau Ihre persönlichen CO2-Emissionen berechnen und erfahren dann Möglichkeiten, sie zu reduzieren.
+H-69	-0.655448317527771	▁Sie ▁können ▁sehr ▁genau ▁be rechnen , ▁was ▁Ihre ▁CO 2 - E mission en ▁sind , ▁und ▁dann ▁bekommen ▁Sie ▁die ▁Möglichkeit , ▁Ihre ▁CO 2 - E mission en ▁zu ▁reduzieren .
+D-69	-0.655448317527771	Sie können sehr genau berechnen, was Ihre CO2-Emissionen sind, und dann bekommen Sie die Möglichkeit, Ihre CO2-Emissionen zu reduzieren.
+P-69	-1.4276 -0.4293 -0.5280 -1.1496 -1.7593 -0.3552 -0.4884 -0.5990 -0.2874 -0.3112 -0.3074 -0.6962 -0.1956 -0.2389 -0.2427 -0.7758 -0.7608 -0.4006 -0.9291 -2.2645 -0.3196 -2.4171 -0.6541 -0.8680 -1.6189 -0.2455 -0.2560 -0.3834 -0.1389 -0.2005 -0.2234 -0.2183 -0.6654 -0.2955 -0.2894
+S-17	
+T-17	Zu Beginn der Rede erzählte ich, was mir am Vortag in Nashville passiert war.
+H-17	-0.7465360760688782	▁Und ▁ich ▁begann ▁die ▁Rede , ▁in dem ▁ich ▁ihnen ▁erzählte , ▁was ▁gerade ▁am ▁Tag ▁zuvor ▁in ▁Na sh ville ▁passiert ▁war .
+D-17	-0.7465360760688782	Und ich begann die Rede, indem ich ihnen erzählte, was gerade am Tag zuvor in Nashville passiert war.
+P-17	-2.1064 -0.5597 -0.5927 -2.2523 -0.1851 -2.0101 -0.2466 -0.3752 -0.2250 -0.7856 -1.5067 -0.5383 -0.3413 -2.1748 -0.6363 -0.7476 -0.6005 -0.2516 -0.2328 -0.2513 -0.1515 -0.8467 -0.4654 -0.2923 -0.2877
+S-39	
+T-39	Ich weiß ja, dass Sie auf weitere schlechte Umweltnachrichten warten — Ich mache nur Spaß — aber jetzt kommt erst mal eine kurze Wiederholung und dann zeige ich Ihnen neues Material über mögliche Lösungen.
+H-39	-0.8309339284896851	▁Nun , ▁ich ▁weiß , ▁dass ▁Sie ▁mehr ▁schlechte ▁Nachrichten ▁über ▁die ▁Umwelt ▁wollten ▁— ▁Ich ▁sch er ze .
+D-39	-0.8309339284896851	Nun, ich weiß, dass Sie mehr schlechte Nachrichten über die Umwelt wollten — Ich scherze.
+P-39	-2.4862 -1.2282 -0.3784 -0.4258 -0.3620 -0.5787 -0.6061 -1.6634 -0.1319 -0.9635 -0.5883 -0.4478 -0.4085 -0.8917 -1.5960 -1.0710 -2.2722 -0.2399 -0.2428 -0.5461 -0.3212
+S-89	
+T-89	Unterstützen Sie die Beschränkung von CO2-Emissionen, Umweltverschmutzung und Emissionshandel.
+H-89	-0.6811055541038513	▁Unter st ütze n ▁Sie ▁die ▁Idee ▁der ▁Be k ä m pf ung ▁von ▁CO 2 - E mission en ▁– ▁Ver sch mut z ung ▁der ▁Erde r w är m ung ▁– ▁und ▁handeln ▁Sie ▁sie .
+D-89	-0.6811055541038513	Unterstützen Sie die Idee der Bekämpfung von CO2-Emissionen – Verschmutzung der Erderwärmung – und handeln Sie sie.
+P-89	-0.6837 -0.3211 -0.2231 -0.6723 -0.2525 -0.7444 -0.6299 -1.5274 -1.7833 -1.1492 -0.2528 -0.2445 -0.1521 -0.2260 -0.5462 -0.8093 -0.1989 -0.4017 -0.2081 -0.2742 -0.2542 -2.1484 -3.2108 -0.3261 -0.3982 -0.2172 -0.2317 -1.4601 -0.6219 -0.2967 -0.3442 -0.1736 -0.2969 -0.2575 -0.3689 -0.3187 -2.3936 -0.3994 -1.3811 -1.2065 -0.3190
+S-85	
+T-85	Woher stammt nur die Empfehlung, von Politik sollte man sich fernhalten?
+H-85	-0.8177350163459778	▁Wo her ▁kam ▁die ▁Idee , ▁dass ▁man ▁die ▁L änge ▁der ▁Politik ▁be halten ▁sollte ?
+D-85	-0.8177350163459778	Woher kam die Idee, dass man die Länge der Politik behalten sollte?
+P-85	-0.5456 -0.8696 -1.6954 -1.2908 -0.6099 -0.4015 -0.4682 -0.6598 -2.1866 -1.1684 -0.2376 -0.8950 -0.3759 -1.8930 -0.3586 -0.4728 -0.2973 -0.2930
+S-34	
+T-34	Ich füge neue Bilder hinzu, weil ich jedes Mal wieder etwas dazulerne.
+H-34	-0.6216484904289246	▁Ich ▁f üge ▁neue ▁Bilder ▁hinzu , ▁weil ▁ich ▁jedes ▁Mal ▁mehr ▁darüber ▁l ern e .
+D-34	-0.6216484904289246	Ich füge neue Bilder hinzu, weil ich jedes Mal mehr darüber lerne.
+P-34	-0.3429 -0.4381 -0.2119 -0.4271 -0.4338 -0.3089 -0.3108 -0.8924 -0.2842 -0.6702 -0.4791 -0.4280 -0.4725 -3.1149 -0.1537 -0.2524 -1.6299 -0.3388
+S-19	
+T-19	Ich hielt meine Rede, dann fuhr ich zurück zum Flughafen, um nach Hause zu fliegen.
+H-19	-0.6661158204078674	▁Ich ▁hielt ▁meine ▁Rede ▁und ▁ging ▁dann ▁zurück ▁zum ▁Flughafen , ▁um ▁nach ▁Hause ▁zu ▁fliegen .
+D-19	-0.6661158204078674	Ich hielt meine Rede und ging dann zurück zum Flughafen, um nach Hause zu fliegen.
+P-19	-0.4641 -0.4337 -1.3381 -0.2448 -0.8226 -1.3177 -1.4797 -1.4125 -0.4588 -0.1911 -0.7637 -0.2205 -1.0065 -0.2335 -0.6895 -0.3274 -0.2850 -0.3009
+S-81	
+T-81	Viele von Ihnen hier können dafür sorgen, dass eine Menge Leute ihn sehen.
+H-81	-0.742458701133728	▁Viele ▁von ▁Ihnen ▁hier ▁haben ▁die ▁Gelegenheit , ▁sicher zustellen , ▁dass ▁es ▁viele ▁Leute ▁sehen .
+D-81	-0.742458701133728	Viele von Ihnen hier haben die Gelegenheit, sicherzustellen, dass es viele Leute sehen.
+P-81	-0.3705 -0.3889 -0.2956 -0.7640 -0.6094 -0.3941 -1.6153 -0.7187 -1.2240 -0.8247 -0.2922 -0.3215 -1.7332 -0.6301 -1.5114 -1.0227 -0.3440 -0.3038
+S-70	
+T-70	Bis zum Fillmstart im Mai wird es ein Update auf Version 2.0 geben, in der man sich dann direkt zum Kauf von Ausgleichseinheiten durchklicken kann.
+H-70	-0.7605634927749634	▁Und ▁wenn ▁der ▁Film ▁im ▁Mai ▁heraus kommt , ▁wird ▁er ▁auf ▁2 , 0 ▁a kt ual isiert ▁werden , ▁und ▁wir ▁werden ▁k lick en ▁und ▁O ff s et s ▁kaufen .
+D-70	-0.7605634927749634	Und wenn der Film im Mai herauskommt, wird er auf 2,0 aktualisiert werden, und wir werden klicken und Offsets kaufen.
+P-70	-0.8332 -1.5382 -0.6045 -0.4163 -0.2183 -0.2253 -1.2683 -0.5410 -0.3590 -0.5885 -1.6239 -0.8392 -0.4489 -0.9106 -0.2603 -0.1968 -0.1012 -0.2126 -0.2147 -1.4832 -1.2144 -0.4997 -0.4347 -0.4026 -3.6462 -0.2969 -0.4941 -0.8470 -3.7221 -0.6089 -0.2530 -0.1920 -0.3764 -0.3961 -0.8064 -0.3060
+S-20	
+T-20	Im Flugzeug schlief ich, bis wir mitten in der Nacht auf den Azoren landeten, um zu tanken.
+H-20	-0.5545194149017334	▁Ich ▁sch lief ▁im ▁Flugzeug , ▁bis ▁wir ▁mit ten ▁in ▁der ▁Nacht ▁auf ▁den ▁A z oren ▁landete n , ▁um ▁zu ▁be t ank en .
+D-20	-0.5545194149017334	Ich schlief im Flugzeug, bis wir mitten in der Nacht auf den Azoren landeten, um zu betanken.
+P-20	-0.7632 -0.7521 -0.1036 -0.9083 -0.2870 -0.6609 -0.2026 -0.4823 -0.6606 -0.3533 -0.3503 -0.2323 -0.2046 -0.6758 -0.4606 -0.3274 -0.7386 -0.2387 -1.0185 -0.2903 -0.6146 -1.2819 -1.2290 -1.5194 -0.6218 -0.1997 -0.2993 -0.3004 -0.3041
+S-5	
+T-5	Kurz nachdem Tipper und ich aus dem (vorgetäuschtes Schluchzen) Weißen Haus ausgezogen waren, fuhren wir von unserem Haus in Nashville zu unserer kleinen Farm 50 Meilen östlich von Nashville — und wir fuhren selbst. (Lachen) Ich weiß, für Sie ist das nichts Ungewöhnliches, aber... (Lachen) Ich sah in den Rückspiegel und plötzlich traf mich eine Erkenntnis.
+H-5	-0.6380246877670288	▁( Lachen ) ▁Wir ▁fuhr en ▁von ▁unserem ▁Haus ▁in ▁Na sh ville ▁zu ▁einer ▁kleinen ▁Farm , ▁die ▁wir ▁50 ▁Meilen ▁ ö s tlich ▁von ▁Na sh ville ▁haben . ▁Wir ▁fuhr en ▁selbst . ▁( Lachen )
+D-5	-0.6380246877670288	(Lachen) Wir fuhren von unserem Haus in Nashville zu einer kleinen Farm, die wir 50 Meilen östlich von Nashville haben. Wir fuhren selbst. (Lachen)
+P-5	-2.9877 -1.0006 -0.2233 -0.3594 -0.8398 -0.2922 -0.3911 -0.9420 -1.2540 -0.6828 -0.1468 -0.2568 -0.1506 -1.0168 -1.0284 -0.2000 -0.2829 -0.6902 -0.6823 -1.0570 -1.2866 -0.6182 -0.4019 -0.1178 -0.2716 -0.1586 -0.2112 -0.0656 -0.1976 -0.1146 -1.0138 -0.5400 -2.4507 -0.3775 -0.3102 -0.7709 -0.3458 -0.3958 -0.8279 -0.2707 -0.9272
+S-60	
+T-60	Nutzen Sie den öffentlichen Verkehr. Sehen Sie sich nach anderen, besseren Lösungen um. Das ist wichtig.
+H-60	-0.7498953342437744	▁Ich ▁erwähnt e ▁Auto mobil e ▁– ▁kaufen ▁Sie ▁einen ▁Hy b ri d . ▁B en ut zen ▁Sie ▁Licht sch ien en . ▁Ent decke n ▁Sie ▁einige ▁der ▁anderen ▁Option en , ▁die ▁viel ▁besser ▁sind . ▁Es ▁ist ▁wichtig .
+D-60	-0.7498953342437744	Ich erwähnte Automobile – kaufen Sie einen Hybrid. Benutzen Sie Lichtschienen. Entdecken Sie einige der anderen Optionen, die viel besser sind. Es ist wichtig.
+P-60	-0.5666 -1.4371 -0.2920 -1.9102 -0.1530 -0.3479 -1.9274 -0.8102 -0.5907 -1.3973 -0.4125 -0.2371 -0.2969 -0.4749 -0.6453 -1.1013 -0.2983 -0.2016 -0.2275 -0.3038 -3.4580 -2.1210 -0.0756 -0.3602 -0.3604 -3.1461 -0.9933 -0.2303 -0.3253 -1.6616 -0.6610 -0.5665 -0.7976 -0.3164 -0.4490 -0.2969 -0.6547 -0.2463 -0.2463 -0.4485 -1.0395 -0.2656 -0.3593 -0.2955 -0.7387
+S-4	
+T-4	Eine wahre Geschichte — kein Wort daran ist erfunden.
+H-4	-0.8411647081375122	▁Es ▁ist ▁eine ▁wahre ▁Geschichte ▁— ▁jedes ▁Stück ▁davon ▁ist ▁wahr . ▁B al d ▁nachdem ▁T ip per ▁und ▁ich ▁das ▁— ▁( M ock s ob ) ▁Weiß e ▁Haus ▁—
+D-4	-0.8411647081375122	Es ist eine wahre Geschichte — jedes Stück davon ist wahr. Bald nachdem Tipper und ich das — (Mocksob) Weiße Haus —
+P-4	-1.1412 -0.4782 -0.9030 -0.6742 -0.2114 -1.5169 -1.5119 -1.9722 -0.8737 -0.8447 -0.4106 -1.5663 -1.6950 -0.3197 -0.1512 -1.5326 -0.3069 -0.3739 -0.1796 -0.7833 -0.1962 -0.3174 -2.9809 -0.1506 -1.5792 -0.6189 -1.1028 -1.3335 -0.6930 -0.3226 -0.7322 -0.1761 -0.7289 -0.2207
+S-64	
+T-64	Es ist einfacher, als Sie glauben. Wirklich. Viele von uns hier haben diese Entscheidung getroffen, und es ist wirklich nicht schwer.
+H-64	-0.6567208766937256	▁Es ▁ist ▁einfacher , ▁als ▁Sie ▁denken . ▁Wirklich . ▁Viele ▁von ▁uns ▁hier ▁haben ▁diese ▁Entscheidung ▁getroffen , ▁und ▁es ▁ist ▁wirklich ▁ziemlich ▁einfach .
+D-64	-0.6567208766937256	Es ist einfacher, als Sie denken. Wirklich. Viele von uns hier haben diese Entscheidung getroffen, und es ist wirklich ziemlich einfach.
+P-64	-1.1614 -0.2774 -0.7408 -0.8607 -0.3068 -1.3800 -0.3238 -0.3682 -1.5649 -0.5541 -0.1601 -0.6291 -0.2081 -0.3080 -0.9217 -0.5378 -0.3880 -0.5539 -1.3184 -0.4207 -1.0781 -0.2247 -0.8186 -1.4551 -0.5836 -0.2928 -0.2947
+S-97	
+T-97	In unserem modernen Land ist es nicht mehr wie früher Aufgabe von Logik und Vernunft, zwischen Wohlstand und Macht zu vermitteln, wie es früher einmal war.
+H-97	-0.6576406955718994	▁Und ▁in ▁unserem ▁modernen ▁Land ▁beinhaltet ▁die ▁Rolle ▁von ▁Logik ▁und ▁Ver n un ft ▁nicht ▁mehr , ▁wie ▁früher ▁zwischen ▁Wohlstand ▁und ▁Macht ▁zu ▁vermitteln .
+D-97	-0.6576406955718994	Und in unserem modernen Land beinhaltet die Rolle von Logik und Vernunft nicht mehr, wie früher zwischen Wohlstand und Macht zu vermitteln.
+P-97	-1.2805 -0.3862 -0.4650 -0.3368 -0.2183 -2.6226 -0.7566 -0.5096 -0.7633 -0.2899 -0.2864 -0.3547 -0.1648 -0.0913 -0.1944 -0.3657 -0.8498 -1.2428 -1.3279 -2.7317 -0.3835 -0.9925 -0.3125 -0.1889 -0.3086 -0.3824 -0.3073 -0.2997
+S-50	
+T-50	Autos und LKW sind sehr wichtig, und wir haben die weltweit niedrigsten Normen, daher sollten wir das Thema anpacken.
+H-50	-0.7932210564613342	▁Autos ▁und ▁LKW s ▁sind ▁sehr ▁wichtig , ▁und ▁wir ▁haben ▁die ▁niedrig sten ▁Standard s ▁der ▁Welt , ▁also ▁sollten ▁wir ▁das ▁an gehen .
+D-50	-0.7932210564613342	Autos und LKWs sind sehr wichtig, und wir haben die niedrigsten Standards der Welt, also sollten wir das angehen.
+P-50	-0.3439 -0.2790 -0.8034 -1.7392 -0.2906 -0.8443 -1.7325 -1.2185 -0.4825 -0.6619 -0.4625 -0.5594 -0.6381 -0.2372 -1.1840 -0.2969 -1.1778 -0.2572 -1.4168 -2.6555 -0.3474 -0.2270 -1.0983 -1.1995 -0.6141 -0.3251 -0.3243
+S-14	
+T-14	Sie sagte: "Ja, das ist Ex-Vizepräsident Al Gore und seine Frau Tipper." Und der Mann antwortete: "Ganz schöner Abstieg, was?" (Lachen)
+H-14	-0.5685855746269226	▁Und ▁sie ▁sagte : ▁" Ja , ▁das ▁ist ▁der ▁ehemalige ▁V ize p r ä side n t ▁Al ▁Go re ▁und ▁seine ▁Frau ▁T ip per ." ▁Und ▁der ▁Mann ▁sagte : ▁" Er ▁ist ▁weit ▁her geholt , ▁oder ?" ▁( Gelächter )
+D-14	-0.5685855746269226	Und sie sagte: "Ja, das ist der ehemalige Vizepräsident Al Gore und seine Frau Tipper." Und der Mann sagte: "Er ist weit hergeholt, oder?" (Gelächter)
+P-14	-0.9724 -0.3325 -0.5185 -0.6652 -0.5059 -0.2207 -0.4140 -0.3736 -0.8628 -1.4231 -1.1951 -0.2317 -0.2188 -0.2756 -0.1913 -0.2268 -0.2798 -0.3133 -0.2951 -0.5544 -0.1770 -0.2824 -0.4002 -0.2946 -0.2368 -0.3057 -0.3094 -0.0866 -0.2553 -0.4343 -0.3733 -0.2045 -0.5347 -0.5807 -0.2994 -0.3641 -0.9580 -1.5830 -2.1907 -2.5413 -0.4849 -1.2038 -0.2482 -0.3560 -1.1565 -0.2916 -0.4999
+S-68	
+T-68	Participant Productions hat unter meiner aktiven Teilnahme die führenden Programmierer der Welt zusammengerufen, um aus dieser geheimnisvollen Kunst der CO2-Berechnung einen anwenderfreundlichen CO2-Rechner zu basteln.
+H-68	-0.8947781920433044	▁Teil nehmen de ▁Produktion en ▁haben ▁– ▁mit ▁meiner ▁aktiv en ▁Be teil igung ▁– ▁die ▁führen den ▁Software - A ut oren ▁der ▁Welt ▁zusammen gebracht , ▁die ▁auf ▁dieser ▁ge heim nis voll en ▁Wissenschaft ▁der ▁CO 2 - Be rechnung ▁einen ▁ verbrauch er freund lichen ▁CO 2 - Re ch ner ▁kon st ru ieren .
+D-68	-0.8947781920433044	Teilnehmende Produktionen haben – mit meiner aktiven Beteiligung – die führenden Software-Autoren der Welt zusammengebracht, die auf dieser geheimnisvollen Wissenschaft der CO2-Berechnung einen verbraucherfreundlichen CO2-Rechner konstruieren.
+P-68	-4.5294 -0.3218 -0.2676 -0.3557 -0.3878 -2.7743 -2.6412 -0.7983 -1.0954 -0.1829 -0.2909 -1.6200 -0.0750 -0.2172 -0.3409 -0.5561 -0.8570 -0.2769 -0.3606 -2.2117 -0.5417 -0.3081 -0.2906 -1.0365 -0.3404 -0.7626 -1.9842 -0.4478 -2.4038 -1.9250 -0.8324 -4.8836 -0.4514 -0.0442 -0.0691 -0.2880 -0.9034 -0.9421 -1.7329 -0.1969 -0.6492 -0.4460 -0.3053 -2.3319 -0.6022 -0.3302 -0.7170 -0.2735 -0.2456 -1.2758 -0.2278 -0.2428 -0.3613 -0.7052 -0.2816 -3.1152 -0.4980 -0.2390 -0.5285 -0.3593 -0.3008
+S-84	
+T-84	In Zusammenarbeit mit Larry Lessig wird sie demnächst auch mit Tools und eingeschränkten Nutzungsrechten veröffentlicht werden, damit junge Leute eigene Remixe herstellen und sie auf ihre Art präsentieren können. (Applaus)
+H-84	-0.6319320797920227	▁In ▁Zusammenarbeit ▁mit ▁La rry ▁Le s s ig ▁wird ▁es ▁irgendwo ▁in ▁diesem ▁Prozess ▁mit ▁Werkzeug en ▁und ▁eingeschränkt en ▁Nutzung s recht en ▁ge po ste t , ▁so ▁dass ▁junge ▁Leute ▁es ▁re m ix en ▁und ▁es ▁auf ▁ihre ▁eigene ▁Weise ▁tun ▁können . ▁( Applaus )
+D-84	-0.6319320797920227	In Zusammenarbeit mit Larry Lessig wird es irgendwo in diesem Prozess mit Werkzeugen und eingeschränkten Nutzungsrechten gepostet, so dass junge Leute es remixen und es auf ihre eigene Weise tun können. (Applaus)
+P-84	-2.3779 -0.3944 -0.1704 -0.1549 -0.1576 -0.2849 -0.2480 -0.2377 -0.2133 -0.6156 -0.9451 -1.0628 -0.5698 -0.4953 -0.2641 -0.6167 -0.6220 -0.3512 -0.8748 -1.9928 -0.4461 -0.9552 -0.3247 -0.2457 -0.3256 -0.9219 -0.1072 -0.2214 -0.2520 -1.3781 -1.7360 -0.3717 -0.3478 -1.1695 -0.8416 -1.9973 -0.2991 -0.1122 -0.2842 -0.9402 -0.7308 -0.6295 -0.4681 -0.9072 -1.2867 -0.8970 -0.2867 -0.2751 -0.3869 -0.3865 -0.2770 -0.4022
+S-75	
+T-75	Und wenn sie aufgrund von kurzfristigen Gewinnen beurteilen, wie viel sie aus Ihrem investierten Kapital herausholen können, dann treffen sie kurzfristige Entscheidungen.
+H-75	-0.7297635078430176	▁Und ▁wenn ▁sie ▁be ur teilen , ▁wie ▁viel ▁sie ▁an ▁Ihre m ▁investiert en ▁Kapital ▁verdienen ▁werden , ▁basierend ▁auf ▁den ▁kurz f r ist igen ▁Er träge n , ▁werden ▁Sie ▁kurz f r ist ige ▁Entscheidungen ▁treffen .
+D-75	-0.7297635078430176	Und wenn sie beurteilen, wie viel sie an Ihrem investierten Kapital verdienen werden, basierend auf den kurzfristigen Erträgen, werden Sie kurzfristige Entscheidungen treffen.
+P-75	-0.9163 -0.4314 -0.5100 -0.8823 -0.5764 -0.1516 -0.4630 -0.3088 -0.6850 -0.2803 -3.3379 -1.6116 -0.3386 -1.5686 -0.5240 -0.3741 -2.8774 -0.8859 -0.4567 -0.8322 -0.2850 -1.5867 -0.2930 -0.2496 -0.2440 -0.2397 -0.2669 -1.4528 -0.3822 -0.3236 -0.3435 -1.9132 -0.7879 -0.8170 -0.2295 -0.2517 -0.3309 -0.2452 -0.3107 -1.1428 -0.6359 -0.3060
+S-40	
+T-40	Aber erst wollte ich zu einigen Dias noch etwas sagen.
+H-40	-0.8066262006759644	▁Aber ▁das ▁sind ▁die ▁Re ka pi t ulation s fo li en , ▁und ▁dann ▁werde ▁ich ▁auf ▁neues ▁Material ▁ein gehen , ▁was ▁Sie ▁tun ▁können , ▁aber ▁ich ▁wollte ▁auf ▁einige ▁davon ▁näher ▁ein gehen .
+D-40	-0.8066262006759644	Aber das sind die Rekapitulationsfolien, und dann werde ich auf neues Material eingehen, was Sie tun können, aber ich wollte auf einige davon näher eingehen.
+P-40	-1.3446 -1.1937 -0.6300 -0.4732 -1.2385 -1.0991 -0.1717 -0.2707 -0.3539 -0.3681 -0.8911 -0.9122 -0.2755 -1.0689 -0.5950 -0.6772 -0.9060 -0.2866 -1.2634 -1.9427 -0.1645 -1.0476 -0.5901 -0.5430 -1.9648 -1.0858 -0.7341 -0.3724 -0.9246 -0.4226 -0.3329 -0.6845 -2.4911 -0.9712 -1.5413 -1.3826 -0.1358 -0.3268 -0.2873 -0.3001
+S-91	
+T-91	Sobald es ein geschlossenes System wird, mit Beteiligung der USA, dann wird jedes Vorstandsmitglied... Wie viele von Ihnen sitzen im Vorstand eines Unternehmens?
+H-91	-0.7289220690727234	▁So bald ▁es ▁ein ▁ geschlossen es ▁System ▁wird , ▁mit ▁Be teil igung ▁der ▁USA , ▁dann ▁sind ▁alle ▁Vor stand s mit g li ed er ▁– ▁wie ▁viele ▁Leute ▁hier ▁sind ▁im ▁Vor stand ▁eines ▁Unternehmen s ?
+D-91	-0.7289220690727234	Sobald es ein geschlossenes System wird, mit Beteiligung der USA, dann sind alle Vorstandsmitglieder – wie viele Leute hier sind im Vorstand eines Unternehmens?
+P-91	-1.4067 -0.1815 -0.6684 -1.3090 -0.2042 -0.3063 -0.2187 -0.2763 -0.9970 -0.5810 -0.8830 -1.8368 -0.1726 -0.2193 -0.3604 -0.3857 -0.3950 -0.5432 -3.3447 -0.3718 -2.9477 -1.0454 -0.4450 -0.3179 -0.1965 -0.2104 -0.2668 -0.2285 -1.1022 -0.3417 -0.5429 -1.4196 -0.9592 -1.8715 -1.1291 -0.2451 -0.1936 -1.4221 -0.2186 -0.2939 -0.2407 -0.3148
+S-88	
+T-88	Das war früher ein parteiübergreifendes Thema, und in dieser Gruppe ist es das ebenfalls. Werden Sie politisch aktiv! Sorgen Sie dafür, dass unsere Demokratie so funktioniert, wie sie sollte.
+H-88	-0.6748785972595215	▁Das ▁war ▁früher ▁ein ▁part ei über greifen des ▁Thema , ▁und ▁ich ▁weiß , ▁dass ▁es ▁in ▁dieser ▁Gruppe ▁wirklich ▁so ▁ist . ▁Wer den ▁Sie ▁politisch ▁aktiv . ▁Lass en ▁Sie ▁unsere ▁Demokratie ▁so ▁funktionieren , ▁wie ▁sie ▁eigentlich ▁funktionieren ▁sollte .
+D-88	-0.6748785972595215	Das war früher ein parteiübergreifendes Thema, und ich weiß, dass es in dieser Gruppe wirklich so ist. Werden Sie politisch aktiv. Lassen Sie unsere Demokratie so funktionieren, wie sie eigentlich funktionieren sollte.
+P-88	-0.8795 -0.4492 -1.7091 -0.6271 -0.9372 -0.1872 -0.0220 -0.1579 -0.2178 -1.2728 -1.0257 -0.4840 -0.6722 -0.2992 -0.4472 -0.6462 -1.2033 -0.8414 -0.4353 -0.2698 -1.2288 -0.8280 -0.4362 -0.4899 -0.9530 -0.9086 -0.3565 -0.3769 -0.2400 -0.8230 -2.4021 -0.2188 -0.2274 -0.6938 -0.2951 -0.3689 -0.2291 -0.8153 -0.2603 -0.6092 -1.9853 -1.2049 -1.0383 -0.3077 -0.2883
+S-65	
+T-65	Reduzieren Sie Ihre CO2-Emissionen durch jede Wahl, die Sie treffen können, und kaufen oder erwerben Sie einen Ausgleich für den Rest, den Sie nicht vermeiden können.
+H-65	-0.808895468711853	▁Es ▁bedeutet , ▁dass ▁Sie ▁Ihre ▁CO 2 - E mission en ▁reduzieren , ▁mit ▁der ▁voll en ▁Auswahl , ▁die ▁Sie ▁treffen , ▁und ▁dann ▁kaufen ▁oder ▁er wer ben ▁Sie ▁Aus gleich s zahl en ▁für ▁den ▁Rest , ▁den ▁Sie ▁nicht ▁komplett ▁reduziert ▁haben .
+D-65	-0.808895468711853	Es bedeutet, dass Sie Ihre CO2-Emissionen reduzieren, mit der vollen Auswahl, die Sie treffen, und dann kaufen oder erwerben Sie Ausgleichszahlen für den Rest, den Sie nicht komplett reduziert haben.
+P-65	-1.4794 -0.4339 -0.5981 -2.0598 -1.3907 -1.4633 -0.9768 -0.2785 -0.4339 -0.2641 -0.2028 -0.2287 -1.3867 -1.5203 -1.6506 -1.8117 -1.9907 -0.2831 -0.8644 -1.1596 -0.2462 -0.2855 -0.3631 -0.7239 -0.3573 -0.4146 -1.7016 -0.4000 -0.9311 -0.2765 -0.1691 -2.3064 -1.5661 -0.0483 -0.3063 -1.3330 -0.5961 -0.2237 -0.5841 -0.3291 -0.4501 -0.4033 -0.2679 -1.2378 -1.8454 -0.8261 -0.3715 -0.3011 -0.2935
+S-63	
+T-63	Diejenigen von Ihnen, die sich mit Slogans auskennen, wäre ich sehr dankbar für Tipps und Hilfe, wie man das so formulieren kann, dass es bei der Masse ankommt.
+H-63	-0.8636005520820618	▁Die j en igen ▁von ▁Ihnen , ▁die ▁gut ▁im ▁B rand ing ▁sind , ▁würde ▁ich ▁lieben d ▁gerne ▁Rat schläge ▁und ▁Hilfe ▁bekommen , ▁wie ▁man ▁das ▁so ▁sagt , ▁dass ▁es ▁mit ▁den ▁meisten ▁Leuten ▁verbunden ▁ist .
+D-63	-0.8636005520820618	Diejenigen von Ihnen, die gut im Branding sind, würde ich liebend gerne Ratschläge und Hilfe bekommen, wie man das so sagt, dass es mit den meisten Leuten verbunden ist.
+P-63	-1.3505 -1.0560 -0.2611 -0.2005 -1.1865 -0.5150 -0.3117 -0.3259 -1.6036 -0.7957 -1.3942 -0.5211 -1.3546 -0.1890 -0.4503 -2.4251 -0.2979 -1.9753 -0.2541 -0.3540 -1.2554 -1.4523 -0.9919 -0.3952 -1.7244 -0.4839 -0.6081 -1.1565 -1.0516 -1.3874 -0.9472 -0.3881 -0.6415 -0.7321 -0.7983 -0.3360 -0.1339 -1.0358 -2.8815 -0.4234 -0.3235 -0.3011
+S-61	
+T-61	Kaufen Sie "grün". Bei allem, was Sie einkaufen, haben Sie die Wahl zwischen Produkten mit ungünstigen und deutlich weniger ungünstigen Auswirkungen auf die globale Klimakrise.
+H-61	-0.686995267868042	▁Se ien ▁Sie ▁ein ▁ grün er ▁Konsum en t . ▁Sie ▁haben ▁die ▁Wahl ▁mit ▁allem , ▁was ▁Sie ▁kaufen , ▁zwischen ▁Dingen , ▁die ▁einen ▁ra u en ▁Effekt ▁haben , ▁oder ▁einem ▁viel ▁weniger ▁ra u en ▁Effekt ▁auf ▁die ▁globale ▁Klima krise .
+D-61	-0.686995267868042	Seien Sie ein grüner Konsument. Sie haben die Wahl mit allem, was Sie kaufen, zwischen Dingen, die einen rauen Effekt haben, oder einem viel weniger rauen Effekt auf die globale Klimakrise.
+P-61	-0.5116 -1.3708 -0.2862 -0.2306 -0.6430 -0.4375 -0.2431 -1.5149 -0.3009 -0.3548 -0.4355 -0.9398 -0.6066 -1.1789 -0.1266 -2.2119 -0.2448 -1.2631 -0.3034 -0.4007 -0.2777 -0.4757 -0.3729 -0.8772 -0.6202 -0.2944 -0.4858 -3.8414 -0.5304 -0.2920 -0.4465 -0.3028 -0.9798 -0.3316 -1.5518 -0.7742 -0.1967 -2.8725 -0.1843 -0.2890 -0.5241 -0.4278 -0.2229 -0.8687 -0.3049 -0.4125 -0.3040 -0.3090
+S-31	
+T-31	Ich möchte beginnen mit... Ich werde einige neue Bilder zeigen und nur vier oder fünf noch mal durchgehen.
+H-31	-0.7810815572738647	▁Ich ▁möchte ▁mit ▁ein ▁paar ▁neuen ▁Bildern ▁beginnen , ▁und ▁ich ▁werde ▁nur ▁vier ▁oder ▁fünf ▁zeigen .
+D-31	-0.7810815572738647	Ich möchte mit ein paar neuen Bildern beginnen, und ich werde nur vier oder fünf zeigen.
+P-31	-0.5141 -0.4682 -0.3385 -1.1247 -0.2374 -1.4382 -0.4142 -0.6994 -1.6585 -0.7193 -0.8853 -0.1686 -0.7415 -0.3513 -0.2295 -0.1686 -4.0899 -0.2938 -0.2997
+S-21	
+T-21	Ich wachte auf, öffnete die Tür und ging hinaus, um frische Luft zu schnappen. Da sah ich plötzlich einen Mann über das Rollfeld rennen.
+H-21	-0.6553090214729309	▁Ich ▁wach te ▁auf , ▁sie ▁öffnet en ▁die ▁Tür , ▁ich ▁ging ▁hinaus , ▁um ▁frisch e ▁Luft ▁zu ▁bekommen , ▁und ▁ich ▁schaute , ▁und ▁da ▁war ▁ein ▁Mann , ▁der ▁über ▁die ▁Start bahn ▁lief .
+D-21	-0.6553090214729309	Ich wachte auf, sie öffneten die Tür, ich ging hinaus, um frische Luft zu bekommen, und ich schaute, und da war ein Mann, der über die Startbahn lief.
+P-21	-0.4805 -0.1704 -0.2696 -0.3920 -0.4595 -1.5779 -0.1832 -0.2475 -0.4072 -0.1131 -0.7463 -0.6144 -0.8144 -1.1047 -1.0674 -0.2379 -0.5235 -0.3776 -0.0516 -0.2063 -1.4637 -0.9092 -0.5877 -0.9391 -1.1217 -2.0395 -0.5119 -0.6168 -0.9199 -0.4053 -0.1969 -0.4478 -0.3620 -0.6856 -0.4882 -1.3836 -0.1882 -2.3423 -0.2588 -0.2989
+S-23	
+T-23	Rufen Sie Washington an! "Ich dachte so: Mitten in der Nacht, mitten im Atlantik, was in der Welt könnte in Washington schief laufen?
+H-23	-0.4942479431629181	▁Ruf en ▁Sie ▁Washington ▁an ! ▁" Und ▁ich ▁dachte ▁mir , ▁mit ten ▁in ▁der ▁Nacht , ▁mit ten ▁im ▁A t lan tik , ▁was ▁in ▁der ▁Welt ▁könnte ▁in ▁Washington ▁falsch ▁sein ?
+D-23	-0.4942479431629181	Rufen Sie Washington an! "Und ich dachte mir, mitten in der Nacht, mitten im Atlantik, was in der Welt könnte in Washington falsch sein?
+P-23	-1.1198 -0.4411 -0.3734 -0.2383 -0.2899 -0.5658 -0.3655 -1.1654 -0.3558 -0.3610 -0.3832 -0.7187 -1.0764 -0.2236 -0.4021 -0.2579 -0.2663 -0.4801 -0.9528 -0.2324 -0.3081 -0.1681 -0.2563 -0.3090 -0.3031 -0.2994 -0.4428 -1.8339 -0.4632 -0.2865 -0.3350 -0.5759 -0.1030 -0.8823 -0.8367 -0.3164 -0.2980
+S-30	
+T-30	Ich möchte mich auf das konzentrieren, was viele von Ihnen von mir hören wollen. Was kann jeder Einzelne gegen die Klimakrise tun?
+H-30	-0.6581509709358215	▁Al ▁Go re : ▁Ich ▁möchte ▁mich ▁auf ▁das ▁konzentrieren , ▁was ▁viele ▁von ▁Ihnen ▁gesagt ▁haben , ▁auf ▁das ▁ich ▁näher ▁ein gehen ▁möchte : ▁Was ▁können ▁Sie ▁gegen ▁die ▁Klima krise ▁tun ?
+D-30	-0.6581509709358215	Al Gore: Ich möchte mich auf das konzentrieren, was viele von Ihnen gesagt haben, auf das ich näher eingehen möchte: Was können Sie gegen die Klimakrise tun?
+P-30	-0.3209 -0.1527 -0.2268 -0.2953 -0.4179 -0.6924 -1.0629 -1.5447 -0.5777 -0.3598 -0.3076 -0.4588 -0.4506 -0.2285 -0.4943 -2.0376 -0.2470 -0.6719 -3.8768 -0.5069 -1.0473 -1.1322 -0.0928 -0.1320 -0.5744 -0.6051 -0.2734 -0.9505 -0.3822 -1.3547 -0.3101 -0.3238 -0.4299 -0.5452 -0.3040 -0.3044
+S-49	
+T-49	Das ist ein einfacher, sichtbarer Kritikpunkt, und so sollte es auch sein, aber Gebäude haben einen größeren Anteil an der Erderwärmung als Autos und LKW.
+H-49	-0.6918898820877075	▁Es ▁ist ▁ein ▁einfache s , ▁sichtbar es ▁Ziel ▁von ▁Be s org nis ▁– ▁und ▁das ▁sollte ▁es ▁auch ▁sein ▁– ▁aber ▁es ▁gibt ▁mehr ▁Klima verschmutzung , ▁die ▁von ▁Gebäude n ▁kommt , ▁als ▁von ▁Autos ▁und ▁LKW s .
+D-49	-0.6918898820877075	Es ist ein einfaches, sichtbares Ziel von Besorgnis – und das sollte es auch sein – aber es gibt mehr Klimaverschmutzung, die von Gebäuden kommt, als von Autos und LKWs.
+P-49	-0.8356 -0.3674 -0.5781 -1.5369 -0.2861 -0.4347 -0.5231 -0.2883 -1.5055 -1.6159 -0.9088 -0.7989 -0.1791 -0.3524 -2.1749 -0.5144 -0.8134 -0.2904 -0.4829 -0.5057 -1.1758 -0.1953 -0.4805 -0.4071 -0.5943 -0.5310 -2.8948 -0.7768 -0.7772 -0.4223 -0.9980 -0.1979 -0.2807 -0.7708 -1.0397 -0.3012 -0.2441 -0.3254 -0.3527 -0.9741 -0.4460 -0.2788 -0.2943
+S-28	
+T-28	Aber ich dachte, da ich ohnehin noch sehr oft zu TED zurückkommen will, könnte ich das vielleicht auf ein anderes Mal verschieben.
+H-28	-0.6519566178321838	▁Aber ▁ich ▁dachte , ▁da ▁ich ▁eine ▁leben s lang e ▁An ge wohn heit ▁habe , ▁zu ▁TED ▁zurück zu kehr en , ▁dass ▁ich ▁vielleicht ▁ein ▁anderes ▁Mal ▁darüber ▁sprechen ▁könnte .
+D-28	-0.6519566178321838	Aber ich dachte, da ich eine lebenslange Angewohnheit habe, zu TED zurückzukehren, dass ich vielleicht ein anderes Mal darüber sprechen könnte.
+P-28	-0.6596 -0.6438 -0.9861 -0.7248 -1.8771 -0.3370 -2.5393 -0.1617 -0.2925 -0.3359 -0.2852 -0.7071 -0.1521 -0.1261 -0.1749 -1.6628 -0.4329 -1.2188 -0.2137 -0.2910 -0.9689 -0.2146 -0.3105 -0.3251 -0.7682 -0.3198 -0.4821 -2.1999 -0.8687 -0.3036 -0.3687 -0.8613 -0.3894 -0.3020 -0.3134
