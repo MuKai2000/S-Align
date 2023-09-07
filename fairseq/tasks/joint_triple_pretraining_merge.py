@@ -906,7 +906,7 @@ class JointTriplePretrainingMergeTask(SpeechToTextTask):
         exp_name = self.args.results_path.split('/')[-1]
         level = 'sentence'
          
-        current_directory = '/mnt/zhangyh/fairseq-AT/egs/pretrain-all'
+        current_directory = ''
         temp_dir = current_directory + '/pic/temp'
         # print(exp_name, temp_dir)
         # assert False

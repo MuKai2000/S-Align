@@ -27,7 +27,7 @@ device=(0,1,2,3,4,5,6,7)
 gpu_num=8
 update_freq=1
 
-root_dir=/mnt/zhangyh/fairseq-AT
+root_dir=
 pwd_dir=$PWD
 
 
@@ -37,8 +37,7 @@ tgt_lang=de
 lang=${src_lang}-${tgt_lang}
 
 dataset=mustc
-# task=joint_triple_pretraining
-task=joint_triple_pretraining_merge                                                                 # //need_check//
+task=joint_triple_pretraining_merge                                            
 vocab_type=unigram
 asr_vocab_size=5000
 vocab_size=10000
@@ -54,12 +53,7 @@ asr_vocab_prefix=spm_unigram10000_st_share
 st_vocab_prefix=spm_unigram10000_st_share
 
 org_data_dir=raw_data
-#data_dir=data_g_no_specaug
-data_dir=data_all_ende                                                                          # //need_check//
-# data_dir=data_all_200ende
-#data_dir=data_all_enfr
-#data_dir=data_g
-#data_dir=data_ende_gpt
+data_dir=data_all_ende                                                         
 test_subset=test
 
 # exp
@@ -68,93 +62,18 @@ extra_tag=
 extra_parameter=
 exp_tag=
 
-# exp_name=ende_shrink_AT_valloss
-# exp_name=ende_shrink_asronly_rec_autoreg
-# exp_name=ende_shrink_AT_mt
-# exp_name=ende_shrink_baseline_mt
-# exp_name=ende_shrink_AT_window                                                                       # //need_check//
-# exp_name=ende_shrink_AT_sentence_nopad_nomute
-# exp_name=ende_shrink_AT_window_scale1
-#exp_name=ende_shrink_v1_merge_AT_sentence_0728_test
-#exp_name=ende_shrink_v1_merge_0802_baseline
-# exp_name=ende_shrink_v1_merge_0808_baseline_alpha2.0
-#exp_name=ende_shrink_v1_merge_0808_mixup_random
-# exp_name=ende_shrink_v1_merge_AT_sentence_scale1_mixup4at_sen0.3_tok0.5_mt_0727
-# ende_shrink_AT_token_scale1_nopad_nomute
-# exp_name=ende_shrink_AT4check
-# exp_name=ende_shrink_v1_merge_0809_AT_sentence_mixup_alpha2.0_mt0.5
-# exp_name=ende_shrink_v1_merge_0810_AT_sentence_mixup0.1_0.5_alpha2.0_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0811_baseline_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0812_doubleCL_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0812_doubleCL_alpha2.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0812_AT_sentence_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0813_AT_sentence_mixup0.5_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0814_AT_sentence_mixup0.5_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0814_AT_sentence_scale2_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0814_AT_sentence_mixup0105_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0814_AT_sentence_mixup0105_global_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0815_AT_sentence_mixup0105_mt0102_id0_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0816_AT_sentence_alpha2.5_mt0.5_nopad
-# exp_name=ende_shrink_v1_merge_large_0816_baseline_cl_alpha1.5_mt0.5
-# exp_name=ende_shrink_v1_merge_large_0817_AT_sentence_mixup0105_mt0102_id0_alpha1.5_mt0.5
 
-#exp_name=ende_shrink_v2_merge_large_0818_baseline_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0818_doubleCL_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0819_AT_sentence_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0819_doubleCL_AT_sentence_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0819_AT_sentence_mixup0105_mt0102_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0819_AT_sentence_mixup0105_mt0102_changeid_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0820_doubleCL_AT_sentence_mixup0.5_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0820_doubleCL_AT_token_alpha1.5_mt0.5
-
-#exp_name=ende_shrink_v2_merge_large_0822_topCL_AT_sentence_mixup0307_alpha1.5_mt0.5
-#exp_name=ende_shrink_v2_merge_large_0823_topCL_AT_sentence_mixup0307_alpha1.5_mt0.5_nogard
-#exp_name=ende_shrink_v2_merge_mustc_0824_soft_noCL_AT_sentence_mixup0307_scale2.5_alpha0_mt0.5
-#exp_name=ende_shrink_v2_merge_mustc_0827_test
+exp_name=
 
 
-#exp_name=ende_v3_merge_wmt_0901_shrink_soft_noCL_AT_sentence_scale3.5_alpha1.5_mt0.5                       # alpha=0
-#exp_name=ende_v3_merge_wmt_0902_shrink_soft_noCL_AT_sentence_mixup_changeid_scale3.5_alpha1.5_mt0.5         # alpha=0
-#exp_name=ende_v3_merge_wmt_0902_shrink_test
-
-#exp_name=ende_v4_merge_wmt_0902_shrink_soft_noCL_AT_sentence_mixup_changeid_3_scale1_alpha1.5_mt0.5
-#exp_name=ende_v4_merge_wmt_0903_shrink_soft_noCL_AT_sentence_mixup0005_changeid_3_scale1_alpha1.5_mt1
-
-#exp_name=ende_v4_merge_wmt_0904_shrink_soft_noCL_AT_sentence_mixup_changeid_3_scale1_alpha0_mt0.5_fzMTEmb
-
-#exp_name=ende_v4_merge_wmt_0904_shrink_both_topCL_AT_sentence_mixup_changeid_scale3.5_alpha1.5_mt0.5
-
-#exp_name=ende_v4_merge_wmt_0905_shrink_both_topCL_AT_sentence_mixup_changeid_scale3.5_alpha1.5_mt0.5_nofz_decrease
-
-exp_name=ende_v4_merge_wmt_0907_shrink_both_noCL_AT_sentence_mixup_changeid_scale5_alpha1.5_mt0.5
-
-
-
-
-
-
-#exp_name=st_joint_ctc_all_shrink_uniq_word_align_task_relax_lookback_bigbatch_two_cl_conv_noise_banscale_maxmt_weight_repeat
-#exp_name=st_joint_ctc_shrink_fix_padding
 fine_tune=
 use_w2v_ctc=1
 apply_mask=
 
 # config
-#train_config=train_ctc_conformer.yaml
-#train_config=train_transformer_w2v.yaml
-#train_config=train_joint_hubert_bce.yaml
-#train_config=train_joint_hubert_bce.yaml
-#train_config=train_joint_hubert_word_ctc_shrink.yaml
-#train_config=train_joint_hubert_cluster_task_relax.yaml
-train_config=train_shrink_AT_zyh.yaml
-#train_config=train_joint_hubert_baseline.yaml
-#train_config=train_ctc_conformer_pretrain_ft_st.yaml
+train_config=train_soft_alignment.yaml
 freeze_decode_module=
-#freeze_encode_module=wav2vec_model
 share_decoder_input_output_embed=1
-#decoder_embed_path=/apdcephfs/share_1157259/users/adrienxu/st/pretrain-text/mbart/embeddings
-#decoder_embed_path=/workspace/MSP-ST/fairseq/egs/machine_translation/pretrain_embeddings
-#decoder_embed_path=/apdcephfs/share_1157259/users/adrienxu/st/pretrain-text/xlmr.large/embeddings_kd
 tune_w2v_LNA=
 tune_mbart_LNA=
 tune_encoder_LNA=
@@ -163,7 +82,6 @@ tune_encoder_LNA=
 fp16=1
 max_tokens=15000
 max_batch_size=
-#max_tokens=3000
 step_valid=1
 bleu_valid=1
 save_interval_updates=4000
@@ -174,22 +92,6 @@ dec_model=checkpoint_best.pt
 n_average=10
 beam_size=5
 len_penalty=1.2
-#load_pretrain_encoder=checkpoints/libri_trans/st/conformer_ctc_perturb_gtrans_pretrain_wav2vec_content_xlmr_ffn_embedding_vocab1W/checkpoint_last.pt
-#load_pretrain_decoder=/apdcephfs/share_1157259/users/adrienxu/st/pretrain-text/mbart/mbart.cc25.v2/model.pt
-#load_pretrain_encoder=/apdcephfs/share_1157259/users/adrienxu/st/pretrain-text/mbart/mbart.cc25.v2/model.pt
-#load_pretrain_decoder=/workspace/fairseq-0.10.2/egs/mt-finetune/checkpoints/mbart-ende/checkpoint_best.pt
-#load_pretrain_decoder=/workspace/MSP-ST/fairseq/egs/machine_translation/checkpoints/wmt-en2de/merge-lcrm/last5.ensemble.pt
-#load_pretrain_encoder=/apdcephfs/share_1157259/users/adrienxu/st/pretrain-text/mt-finetune/checkpoints/model.pt
-#load_encoder_layers_from=/apdcephfs/share_1157259/users/adrienxu/st/pretrain-text/mt-finetune/checkpoints/model.pt
-if [[ $fine_tune -eq 1 ]]; then
-    train_config=tune_st_hubert_shrink.yaml
-    max_tokens=5000
-    step_valid=1
-    save_interval_updates=100
-    exp_name=${exp_name}_tune
-    tune_encoder_LNA=1
-    tune_w2v_LNA=1
-fi
 
 if [[ ${share_dict} -eq 1 ]]; then
 	data_config=config_st.yaml

@@ -1,1 +1,0 @@
-Generate tst-COMMON_st with beam=8: BLEU = 37.45 65.9/44.2/32.0/23.6 (BP = 0.972 ratio = 0.972 hyp_len = 54148 ref_len = 55681)

@@ -24,8 +24,7 @@ device=()
 gpu_num=5
 update_freq=1
 
-cd /mnt/zhangyh/fairseq-AT/egs/pretrain-all
-root_dir=/mnt/zhangyh/fairseq-AT/
+root_dir=
 pwd_dir=$PWD
 
 # dataset
@@ -46,7 +45,7 @@ tokenizer=0
 
 use_specific_dict=0
 specific_prefix=valid
-specific_dir=~/IWSLT22/egs/mustc/st_lcrm/en-zh
+specific_dir=
 asr_vocab_prefix=spm_unigram10000_st_share
 st_vocab_prefix=spm_unigram10000_st_share
 
@@ -62,7 +61,6 @@ exp_tag=baseline
 exp_name=mustc_conformer
 
 # config
-#train_config=train_ctc.yaml
 train_config=train_joint.yaml
 
 # training setting
