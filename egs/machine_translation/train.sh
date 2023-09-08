@@ -1,32 +1,17 @@
 #! /usr/bin/bash
 set -e
-# source /home/zhangyuhao/VENV/AT/bin/activate
 device=0,1,2,3,4,5,6,7
 #device=
 
-#task=iwslt-de2en
 #task=wmt-en2es
 task=wmt-en2fr
 #task=mustc
 #task=wmt-en2de
-# must set this tag
-#tag=pre_norm_inter_p_newton_1_init_0.002_16000
-#tag=iwslt23-conv-silent-encoder-all-conv5-l2g
-#tag=mustc-conv-l2g-enfr-2048
-# tag=ende-baseline
-# tag=enes-baseline-mustc-ft
 tag=enfr-baseline-mustc-ft
 
 #tag=test3
 
 if [ $task == "wmt-en2de" ]; then
-        #arch="transformer_mustc_en_de_conv_all"
-        #arch="transformer_mustc_en_de_conv5_rpr"
-        #arch="transformer_mustc_en_de_conv5"
-        #arch="transformer_mustc_en_de_encoder3_conv5"
-        #arch="transformer_mustc_en_de_encoder3_conv3"
-        #arch="transformer_mustc_en_de_conv_all_l2g"
-        #arch="transformer_mustc_en_de_conv5_all_l2g"
         arch="transformer_wmt_en_de"
 	share_embedding=1
         share_decoder_input_output_embed=1
@@ -46,14 +31,7 @@ if [ $task == "wmt-en2de" ]; then
         src_lang=en
         tgt_lang=de
 elif [ $task == "mustc" ]; then
-        #arch="transformer_mustc_en_de_conv_all"
-        #arch="transformer_mustc_en_de_conv5_rpr"
-        #arch="transformer_mustc_en_de_conv5"
         arch=transformer_mustc_en_de
-        #arch="transformer_mustc_en_de_encoder3_conv5"
-        #arch="transformer_mustc_en_de_encoder3_conv3"
-        #arch="transformer_mustc_en_de_conv_all_l2g"
-        #arch="transformer_mustc_en_de_conv5_all_l2g_2048"
         share_embedding=1
         share_decoder_input_output_embed=1
         criterion=label_smoothed_cross_entropy
@@ -71,8 +49,6 @@ elif [ $task == "mustc" ]; then
         src_lang=en
         tgt_lang=fr
 elif [ $task == "wmt-en2fr" ]; then
-        #arch=transformer_iwslt_de_en
-        #arch=transformer_mustc_en_de
         arch="transformer_wmt_en_de"
         share_embedding=1
         share_decoder_input_output_embed=1
@@ -91,8 +67,6 @@ elif [ $task == "wmt-en2fr" ]; then
         src_lang=en
         tgt_lang=fr
 elif [ $task == "wmt-en2es" ]; then
-        #arch=transformer_iwslt_de_en
-        #arch=transformer_mustc_en_de_conv5_rpr
         arch="transformer_wmt_en_de"
         share_embedding=1
         share_decoder_input_output_embed=1
@@ -142,7 +116,7 @@ cp ${BASH_SOURCE[0]} $save_dir/train.sh
 
 gpu_num=`echo "$device" | awk '{split($0,arr,",");print length(arr)}'`
 
-cmd="python3 -u /mnt/zhangyh/fairseq-AT/train.py data-bin/$data_dir
+cmd="python3 -u ../../train.py data-bin/$data_dir
   --distributed-world-size $gpu_num -s $src_lang -t $tgt_lang
   --arch $arch
   --optimizer adam --clip-norm 0.0

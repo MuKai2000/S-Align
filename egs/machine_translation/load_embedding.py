@@ -4,7 +4,7 @@ import numpy as np
 
 arg_overrides={}
 state = fairseq.checkpoint_utils.load_checkpoint_to_cpu("checkpoints/wmt-en2fr/enfr-baseline/last5.ensemble.pt", arg_overrides)
-dicts=open("/mnt/zhangyh/fairseq-AT/egs/machine_translation/data-bin/wmtmerge2-enfr/dict.fr.txt","r").read().strip().split("\n")
+dicts=open("../data-bin/wmtmerge2-enfr/dict.fr.txt","r").read().strip().split("\n")
 output=open("pretrain_embeddings_wmt_enfr_baseline","w")
 dicts=["<s>","<pad>","</s>","<unk>"]+dicts
 output.write(str(len(dicts))+" 512\n")

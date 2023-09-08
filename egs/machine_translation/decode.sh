@@ -1,23 +1,13 @@
 #!/usr/bin/bash
 set -e
-# source /home/zhangyuhao/VENV/AT/bin/activate
 model_root_dir=checkpoints
-root=/mnt/zhangyh/fairseq-AT/
+root=
 # set task
 #task=mustc
 task=wmt-en2fr
 #task=wmt-en2es
 # task=wmt-en2de
 # set tag
-#model_dir_tag=mustc-ende-baseline-silent
-#model_dir_tag=mustc-ende-iwslt-prenorm-conv2-prepos-silent-rpr
-#model_dir_tag=iwslt23-conv-silent-conv5-check
-#model_dir_tag=mustc-ende-iwslt-prenorm-conv2-prepos-silent
-#model_dir_tag=mustc-ende-iwslt-prenorm-conv2-prepos-silent-2048
-#model_dir_tag=iwslt23-conv-silent-encoder3-conv5
-#model_dir_tag=iwslt23-conv-silent-encoder-all-conv5-l2g
-#model_dir_tag=mustc-ende-baseline
-#model_dir_tag=iwslt23-conv-silent-conv5-all-check
 #model_dir_tag=mergerwmt-enes
 #model_dir_tag=ende-baseline
 #model_dir_tag=ende-baseline-mustc-ft
@@ -38,7 +28,7 @@ gpu=0
 
 if [ -n "$ensemble" ]; then
         if [ ! -e "$model_dir/last$ensemble.ensemble.pt" ]; then
-                PYTHONPATH=`pwd` python3 /mnt/zhangyh/fairseq-AT/scripts/average_checkpoints.py --inputs $model_dir --output $model_dir/last$ensemble.ensemble.pt --num-epoch-checkpoints $ensemble
+                PYTHONPATH=`pwd` python3 ../../scripts/average_checkpoints.py --inputs $model_dir --output $model_dir/last$ensemble.ensemble.pt --num-epoch-checkpoints $ensemble
         fi
         checkpoint=last$ensemble.ensemble.pt
 fi
