@@ -2,7 +2,7 @@ train-subset: train_st,train_asr
 valid-subset: dev_st
 
 adversarial-training: True    # do AT task
-at-level: sentence            # the level of at task, support: sentence / token / window  
+at-level: sentence            
 at-scale: 4.0                 # set the weight of at loss
 mix-tag: 0.5
 keep-mt-task: True            # keep update mt task and do not update weight
