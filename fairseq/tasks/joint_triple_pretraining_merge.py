@@ -534,7 +534,7 @@ class JointTriplePretrainingMergeTask(SpeechToTextTask):
                     mixup_change_id_scale = 1.5
                     loss_at = loss_at * mixup_change_id_scale
 
-                if update_num > 1000 and True:
+                if update_num > 1000 and False:
                     limit_scale = 1.0
                     if abs(loss_at.item()) >  (limit_scale * abs(loss_at_gen.item())):
                         loss_at_gen = loss_at_gen * 0
